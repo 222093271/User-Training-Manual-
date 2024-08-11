@@ -32,6 +32,8 @@ Introduction to the new design and its features, ensuring smooth navigation and 
 -[Support Contacts](#support-contacts)
 
 ### Getting Started:
+![image](https://github.com/user-attachments/assets/37977a5a-c47c-437d-ab9b-d25d55018023)
+
 Overview of the Admin Page
 The admin page provides a centralized interface for managing users, monitoring activities, and configuring system settings. It is designed to be user-friendly and efficient.
 Key Features:
